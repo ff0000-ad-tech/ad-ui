@@ -1,29 +1,13 @@
-import TextFormat from './lib/TextFormat'
-import TextSplitType from './lib/TextSplitType'
-import UIBorder from './lib/UIBorder'
-import UIButton from './lib/UIButton'
-import UICanvas from './lib/UICanvas'
-import UIComponent from './lib/UIComponent'
-import UIDiv from './lib/UIDiv'
-import UIGroup from './lib/UIGroup'
-import UIImage from './lib/UIImage'
-import UISlider from './lib/UISlider'
-import UISplitText from './lib/UISplitText'
-import UISvg from './lib/UISvg'
-import UITextField from './lib/UITextField'
-
-export {
-	TextFormat,
-	TextSplitType,
-	UIBorder,
-	UIButton,
-	UICanvas,
-	UIComponent,
-	UIDiv,
-	UIGroup,
-	UIImage,
-	UISlider,
-	UISplitText,
-	UISvg,
-	UITextField,
-}
+export { default as TextFormat } from './lib/TextFormat'
+export { default as TextSplitType } from './lib/TextSplitType'
+export { default as UIBorder } from './lib/UIBorder'
+export { default as UIButton } from './lib/UIButton'
+export { default as UICanvas } from './lib/UICanvas'
+export { default as UIComponent } from './lib/UIComponent'
+export { default as UIDiv } from './lib/UIDiv'
+export { default as UIGroup } from './lib/UIGroup'
+export { default as UIImage } from './lib/UIImage'
+export { default as UISlider } from './lib/UISlider'
+export { default as UISplitText } from './lib/UISplitText'
+export { default as UISvg } from './lib/UISvg'
+export { default as UITextField } from './lib/UITextField'
