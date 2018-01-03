@@ -1,5 +1,11 @@
-export { default as TextFormat } from './lib/TextFormat'
-export { default as TextSplitType } from './lib/TextSplitType'
+import * as TextFormat from './lib/TextFormat'
+import * as TextSplitType from './lib/TextSplitType'
+
+export {
+	TextFormat,
+	TextSplitType,
+}
+
 export { default as UIBorder } from './lib/UIBorder'
 export { default as UIButton } from './lib/UIButton'
 export { default as UICanvas } from './lib/UICanvas'
