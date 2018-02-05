@@ -1,26 +1,26 @@
 {
-  "name": "ad-ui",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git"
-  },
-  "author": "RED Interactive Agency",
-  "license": "ISC",
-  "dependencies": {
-    "ad-view": "git://github.com:ff0000-ad-tech/ad-view.git",
-    "ad-control": "git://github.com:ff0000-ad-tech/ad-control.git",
-    "ad-utils": "git://github.com:ff0000-ad-tech/ad-utils.git",
-    "ad-events": "git://github.com:ff0000-ad-tech/ad-events.git"
-  },
-  "devDependencies": {
-    "eslint": "^4.16.0",
-    "eslint-config-prettier": "^2.9.0",
-    "eslint-plugin-prettier": "^2.5.0",
-    "prettier": "^1.10.2"
-  }
+	"name": "ad-ui",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git"
+	},
+	"author": "RED Interactive Agency",
+	"license": "ISC",
+	"dependencies": {
+		"ad-view": "git+https://github.com:ff0000-ad-tech/ad-view.git",
+		"ad-control": "git+https://github.com:ff0000-ad-tech/ad-control.git",
+		"ad-utils": "git+https://github.com:ff0000-ad-tech/ad-utils.git",
+		"ad-events": "git+https://github.com:ff0000-ad-tech/ad-events.git"
+	},
+	"devDependencies": {
+		"eslint": "^4.16.0",
+		"eslint-config-prettier": "^2.9.0",
+		"eslint-plugin-prettier": "^2.5.0",
+		"prettier": "^1.10.2"
+	}
 }
