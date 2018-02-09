@@ -15,10 +15,10 @@
 	"author": "RED Interactive Agency",
 	"license": "MIT",
 	"dependencies": {
-		"ad-view": "git+https://github.com/ff0000-ad-tech/ad-view.git",
-		"ad-control": "git+https://github.com/ff0000-ad-tech/ad-control.git",
-		"ad-utils": "git+https://github.com/ff0000-ad-tech/ad-utils.git",
-		"ad-events": "git+https://github.com/ff0000-ad-tech/ad-events.git"
+		"@ff0000-ad-tech/ad-view": "latest",
+		"@ff0000-ad-tech/ad-control": "latest",
+		"@ff0000-ad-tech/ad-utils": "latest",
+		"@ff0000-ad-tech/ad-events": "latest"
 	},
 	"devDependencies": {
 		"eslint": "^4.16.0",
