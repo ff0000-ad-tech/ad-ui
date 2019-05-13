@@ -1,24 +1,21 @@
 ##### RED Interactive Agency - Ad Technology
 
-[![npm
-(tag)](https://img.shields.io/npm/v/@ff0000-ad-tech%2Fad-ui.svg?style=flat-square)](https://www.npmjs.com/package/@ff0000-ad-tech%2Fad-ui)
-[![GitHub
-issues](https://img.shields.io/github/issues/ff0000-ad-tech/ad-ui.svg?style=flat-square)](https://github.com/ff0000-ad-tech/ad-ui)
-[![npm
-downloads](https://img.shields.io/npm/dm/@ff0000-ad-tech%2Fad-ui.svg?style=flat-square)](https://www.npmjs.com/package/@ff0000-ad-tech%2Fad-ui)
+[![npm (tag)](https://img.shields.io/npm/v/@ff0000-ad-tech%2Fad-ui.svg?style=flat-square)](https://www.npmjs.com/package/@ff0000-ad-tech%2Fad-ui)
+[![GitHub issues](https://img.shields.io/github/issues/ff0000-ad-tech/ad-ui.svg?style=flat-square)](https://github.com/ff0000-ad-tech/ad-ui)
+[![npm downloads](https://img.shields.io/npm/dm/@ff0000-ad-tech%2Fad-ui.svg?style=flat-square)](https://www.npmjs.com/package/@ff0000-ad-tech%2Fad-ui)
 
-[![GitHub
-contributors](https://img.shields.io/github/contributors/ff0000-ad-tech/ad-ui.svg?style=flat-square)](https://github.com/ff0000-ad-tech/ad-ui/graphs/contributors/)
-[![GitHub
-commit-activity](https://img.shields.io/github/commit-activity/y/ff0000-ad-tech/ad-ui.svg?style=flat-square)](https://github.com/ff0000-ad-tech/ad-ui/commits/master)
-[![npm
-license](https://img.shields.io/npm/l/@ff0000-ad-tech%2Fad-ui.svg?style=flat-square)](https://github.com/ff0000-ad-tech/wp-creative-server/blob/master/LICENSE)
-[![PRs
-Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub contributors](https://img.shields.io/github/contributors/ff0000-ad-tech/ad-ui.svg?style=flat-square)](https://github.com/ff0000-ad-tech/ad-ui/graphs/contributors/)
+[![GitHub commit-activity](https://img.shields.io/github/commit-activity/y/ff0000-ad-tech/ad-ui.svg?style=flat-square)](https://github.com/ff0000-ad-tech/ad-ui/commits/master)
+[![npm license](https://img.shields.io/npm/l/@ff0000-ad-tech%2Fad-ui.svg?style=flat-square)](https://github.com/ff0000-ad-tech/ad-ui/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+* * *
 
 # UI Components
 
-* * *
+A package of UI Components
+
+## API
 
 ## <a name="TextFormat" href="./docs/TextFormat.md">TextFormat</a>
 * <a href="./docs/TextFormat.md#TextFormat.INLINE">.INLINE</a> : <code>string</code>
@@ -121,5 +118,6 @@ Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-squ
 * <a href="./docs/UITextField.md#UITextField.smoothing">.smoothing</a> : <code>boolean</code>
 * <a href="./docs/UITextField.md#UITextField.resetToDefault">.resetToDefault(arguments)</a>
 * <a href="./docs/UITextField.md#UITextField.setDefault">.setDefault()</a>
+
 
 * * *
